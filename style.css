@@ -1,0 +1,27 @@
+/* CSS styles */
+h1 {
+    font-family: Impact, sans-serif;
+    color: #CE5937;
+    }
+          
+
+    button {
+        font-size: 20px; /* Bigger font size */
+        color: red; /* Text color */
+        background-color: yellow; /* Background color */
+        border: none; /* Remove border */
+        padding: 15px 30px; /* Increase padding for size */
+        border-radius: 20px; /* Rounded edges */
+        cursor: pointer; /* Pointer cursor for hover effect */
+    }
+
+#tooltipButton {
+    transition: all 0.3s ease; /* Smooth transition for hover effect */
+}
+
+#tooltipButton:hover {
+    background-color: purple; /* New background color */
+    color: white; /* New text color */
+    font-size: 20px; /* Larger font size */
+    font-family: 'Courier New', Courier, monospace; /* Change font type */
+}
