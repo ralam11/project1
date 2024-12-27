@@ -7,8 +7,8 @@ h1 {
 
     button {
         font-size: 20px; /* Bigger font size */
-        color: red; /* Text color */
-        background-color: yellow; /* Background color */
+        color: rgb(0, 255, 64); /* Text color */
+        background-color: rgb(0, 255, 255); /* Background color */
         border: none; /* Remove border */
         padding: 15px 30px; /* Increase padding for size */
         border-radius: 20px; /* Rounded edges */
